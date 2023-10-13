@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/PythonWTFFF/cv1.git/static/css/main.3fe5f667.css",
+    "main.js": "/PythonWTFFF/cv1.git/static/js/main.cd7f551b.js",
+    "index.html": "/PythonWTFFF/cv1.git/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3fe5f667.css",
+    "static/js/main.cd7f551b.js"
+  ]
+}
